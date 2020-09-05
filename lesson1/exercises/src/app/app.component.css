@@ -1,0 +1,14 @@
+.container {
+    background-image: url('https://bugherd.com/wp-content/uploads/2020/04/this-is-fine-scaled-e1586238229666.jpg');
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.col-3{
+    padding-left: 4em;
+    padding-right: 4em;
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    background-color: darkgray;
+}
