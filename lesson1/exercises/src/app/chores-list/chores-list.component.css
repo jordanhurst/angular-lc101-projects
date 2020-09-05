@@ -1,0 +1,15 @@
+.chores{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+}
+
+.chores h3{
+    font-size: 175%;
+    color: orangered;
+    text-decoration: underline;
+}
+
+.chores li{
+    color: darkblue;
+    font-style: italic;
+}

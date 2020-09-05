@@ -1,0 +1,15 @@
+.movies h3{
+    color: rgb(6, 168, 28);
+    text-align: center;
+    font-size: 4em;
+}
+
+.movies li {
+    background-color: rgb(49, 49, 49);
+    color: lightblue;
+    font-size: 2em;
+}
+
+ol{
+    background-color: rgb(49, 49, 49);
+}

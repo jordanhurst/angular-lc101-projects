@@ -1,7 +1,20 @@
+<!-- <script>
+   let moviesToWatchList = '';
+   let moviesArray = {{movies}};
+   for (let i=0; i<moviesArray.length; i++){
+      moviesToWatchList += `<li>${moviesArray[i]}</li>\n`
+   };
+   let moviesList = document.getElementById('moviesList');
+   moviesList.innerHTML = moviesToWatchList;
+</script> -->
+
 <div class="movies">
    <h3>Movies to Watch</h3>
-   <ol>
+   <ol id="moviesList">
       <li>{{movies[0]}}</li>
       <li>{{movies[1]}}</li>
+      <li>{{movies[2]}}</li>
+      <li>{{movies[3]}}</li>
+      <li>{{movies[4]}}</li>
    </ol>
 </div>
